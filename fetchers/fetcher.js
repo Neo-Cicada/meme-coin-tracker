@@ -23,7 +23,6 @@ async function fetchMemeCoinInfo() {
         );
         return memeCoins;
 
-        // return response.data.data; // Assuming the meme coin data is under the 'data' property of the response
     } catch (error) {
         console.error('Error fetching meme coin information from CoinMarketCap:', error);
         throw error;
