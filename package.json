@@ -1,6 +1,6 @@
 {
   "name": "@neo-cicada/meme-coin-tracker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "meme coin tracker",
   "main": "index.js",
   "scripts": {
