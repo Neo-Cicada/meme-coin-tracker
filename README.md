@@ -7,7 +7,7 @@ Meme Coin Fetcher is a Node.js package that allows you to retrieve information a
 ### Installation
 
 ```bash
-npm install meme-coin-fetcher
+npm i @neo-cicada/meme-coin-tracker
 ```
 
 ### Usage
